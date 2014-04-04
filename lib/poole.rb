@@ -1,5 +1,6 @@
-require "poole/version"
+require 'poole/version'
+require 'poole/please'
+require 'poole/cli'
 
 module Poole
-  # Your code goes here...
 end

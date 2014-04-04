@@ -23,6 +23,13 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 2.12'
   spec.add_development_dependency 'cucumber'
   spec.add_development_dependency 'aruba'
+  spec.add_development_dependency 'simplecov'
+  spec.add_development_dependency 'coveralls'
 
   spec.add_dependency 'jekyll', '~> 1.5'
+  spec.add_dependency 'coffee-script', '~> 2.2'
+  spec.add_dependency 'haml', '~> 4'
+  spec.add_dependency 'sass', '~> 3.2'
+
+  spec.add_dependency 'thor'
 end
