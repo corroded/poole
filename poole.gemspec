@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Poole::VERSION
   spec.authors       = ["Eumir Gaspar"]
   spec.email         = ["eumir@aelogica.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{This is a gem for creating JS games using Jekyll, Coffeescript, HAML, and SASS}
+  spec.description   = %q{This is a gem for creating JS games using Jekyll, Coffeescript, HAML, and SASS}
   spec.homepage      = ""
   spec.license       = "MIT"
 
